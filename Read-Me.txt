@@ -1,0 +1,1 @@
+Backend + Frontend: if you know anything about backend and frontend you don't need to read this, The file 3DBasics.js is the backend which renders things, the file index.html is the frontend that is the UI (User Interface).
